@@ -6,7 +6,6 @@
 
 ### Features
 1. Start, stop, and reset functionality.
-2. Clear display of elapsed time.
 
 #### Installation
 1. To use the stopwatch, simply download the project files and open the index.html file in a web browser.
